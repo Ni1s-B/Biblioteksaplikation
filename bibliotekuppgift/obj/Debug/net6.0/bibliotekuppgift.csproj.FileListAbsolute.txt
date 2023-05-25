@@ -1,0 +1,15 @@
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\obj\Debug\net6.0\bibliotekuppgift.csproj.AssemblyReference.cache
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\obj\Debug\net6.0\bibliotekuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\obj\Debug\net6.0\bibliotekuppgift.AssemblyInfoInputs.cache
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\obj\Debug\net6.0\bibliotekuppgift.AssemblyInfo.cs
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\obj\Debug\net6.0\bibliotekuppgift.csproj.CoreCompileInputs.cache
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\bin\Debug\net6.0\bibliotekuppgift.exe
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\bin\Debug\net6.0\bibliotekuppgift.deps.json
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\bin\Debug\net6.0\bibliotekuppgift.runtimeconfig.json
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\bin\Debug\net6.0\bibliotekuppgift.dll
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\bin\Debug\net6.0\bibliotekuppgift.pdb
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\obj\Debug\net6.0\bibliotekuppgift.dll
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\obj\Debug\net6.0\refint\bibliotekuppgift.dll
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\obj\Debug\net6.0\bibliotekuppgift.pdb
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\obj\Debug\net6.0\bibliotekuppgift.genruntimeconfig.cache
+C:\Users\nils.bergholtz\Desktop\bibliotekuppgift\obj\Debug\net6.0\ref\bibliotekuppgift.dll
